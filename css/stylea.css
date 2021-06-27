@@ -1,0 +1,32 @@
+
+label{
+    font-size: larger;
+    color:gold;
+    text-decoration-style:;
+    
+}
+input{
+    width: 40%;
+    height: 30px;
+    font-size: 25px;
+    border-style: ridge;
+}
+form{
+    margin-left: 550px;
+    margin-top: 70px;
+    
+}
+
+.student{
+    text-align: center;
+color:gold
+}
+
+.body2{
+    background-image:url(/image/bishal.jpg)
+}
+.button{
+    width: 30%;
+    
+    
+}

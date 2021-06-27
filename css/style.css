@@ -1,0 +1,129 @@
+.first{
+    
+    background-color: rgb(220, 245, 245);
+    padding: 1px;
+
+padding: 1px;
+
+
+}
+
+
+
+.i1{
+    max-width: 40px;
+    position: absolute;
+    float: left;
+    top: 10px;
+    right: 30px;
+    
+
+
+}
+.i2{
+    max-width: 40px;
+    position: absolute;
+    float: left;
+    top: 10px;
+    right: 80px;
+
+}
+
+.h1{
+    display: inline-flex;
+    
+}
+
+.h2{
+    font-size: small;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+
+}
+
+#example{
+    display: inline;
+    float: right;
+    
+}
+.active{
+    text-decoration: none;
+    padding: 5px;
+}
+.fbox{
+    
+height: 350px;
+}
+
+.sbox , .tbox , .fobox{    
+  height:350px;
+    width: 32%;
+    margin-top: 20px;
+    margin-left: 0.5%;
+    display: inline-block; 
+    
+}
+
+.tbox{
+    margin-left: 1%;
+    
+}
+    
+
+.fobox{
+    margin-left: 1%;
+
+}
+
+
+.gall{
+    font-size: 150%;
+    text-align: center;
+
+}
+
+.ac{
+    font-size: 250%;
+    text-align: center;
+}
+hr{
+    height: 3px;
+ border-color: mediumorchid;
+}
+.principle{
+    
+    background-color:#ece2e2ea;
+     height:700px;
+    width: 32%;
+    float: right;
+    border-color: 
+}
+.ram{
+    height: 40%;
+    padding-left: 25%;
+}
+
+.paragraph{
+    font-size:140%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.head{
+
+    font-size:30px ; 
+    
+     
+}
+table, th, td {
+    padding: 20px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.video{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+table{
+    margin-left: 30px;
+ } 
